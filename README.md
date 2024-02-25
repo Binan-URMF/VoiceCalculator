@@ -1,7 +1,7 @@
 # Voice-Controlled Calculator
 
 ## Overview
-This is a simple voice-controlled calculator that can perform basic arithmetic operations like addition, subtraction, multiplication, and division. It uses speech recognition to input numbers and operations.
+This is a simple voice-controlled calculator i made while in high school that can perform basic arithmetic operations like addition, subtraction, multiplication, and division. It uses speech recognition to input numbers and operations.
 
 ## Features
 - **Voice Recognition:** Understands spoken numbers and commands.
